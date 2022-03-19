@@ -1,2 +1,2 @@
-# C27
-Down to shoot, left and arrows to control the cannon....
+# PRO-C26-Reference
+reference code for c26
